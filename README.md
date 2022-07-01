@@ -1,2 +1,2 @@
-# sharing2
+# Price prediction
 Car's price prediction
